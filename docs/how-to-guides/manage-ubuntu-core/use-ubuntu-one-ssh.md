@@ -1,5 +1,4 @@
 (how-to-guides-manage-ubuntu-core-use-ubuntu-one-ssh)=
-(user-ubuntu-one-for-ssh)=
 # Use Ubuntu One SSH
 
 By default, Ubuntu Core runs an [OpenSSH](https://help.ubuntu.com/community/SSH) server to enable secure remote connections to the device.
